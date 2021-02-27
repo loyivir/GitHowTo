@@ -1,0 +1,12 @@
+[submodule "network_hello"]
+	path = network_hello
+	url = https://github.com/loyivir/network_hello.git
+[submodule "cloned_hello"]
+	path = cloned_hello
+	url = https://github.com/loyivir/cloned_hello.git
+[submodule "hello"]
+	path = hello
+	url = https://github.com/loyivir/hello.git
+[submodule "hello-git"]
+	path = hello-git
+	url = https://github.com/loyivir/hello-git.git
