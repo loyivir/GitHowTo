@@ -6,7 +6,7 @@
 	url = https://github.com/loyivir/cloned_hello.git
 [submodule "hello"]
 	path = hello
-	url = https://github.com/loyivir/hello.git
+	url = https://github.com/loyivir/help.git
 [submodule "hello-git"]
 	path = hello-git
 	url = https://github.com/loyivir/hello-git.git
